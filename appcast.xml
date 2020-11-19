@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title />
+    <language>en</language>
+    <item>
+      <title>Version 2.0</title>
+      <pubDate>Wed, 21 Oct 2020 20:05:17 +05:30</pubDate>
+      <enclosure url="https://www.dropbox.com/s/4wf1pi0bbdpyxba/NetSparkleUpdatorSampleInstaller.msi" sparkle:version="1.0.1" length="544256" sparkle:os="windows" type="application/octet-stream" sparkle:dsaSignature="BXqxr99m0nRB/xCeqj1NlqXY8/po1njkR3qCPvn5D3tJ+HpJ/MGdvw==" />
+    </item>
+  </channel>
+</rss>
